@@ -18,4 +18,4 @@
 <br>
 <p><br></p>
 <p>You can choose a random seed by passing the "seed" argument to the url.</p>
-<p>For example: ?seed=1</p>
+<p>For example: https://guolo.github.io/welcome-to-the-moon?seed=23</p>
