@@ -11,6 +11,7 @@
     "Welcome to the Moon" deck simulation
 </h1>
 <p>A simple website to simulate a deck of cards from the game "Welcome to the Moon"</p>
+<p>For example: https://guolo.github.io/welcome-to-the-moon</p>
 <br>
 
 <img width="726" height="759" alt="Screenshot 2025-09-10 alle 12 56 15" src="https://github.com/user-attachments/assets/b860c292-aeb3-4f89-8dd6-ecdaefbe7d83" />
