@@ -17,4 +17,5 @@
 
 <br>
 <p><br></p>
-<p>Seed:</p>
+<p>You can choose a random seed by passing the "seed" argument to the url.</p>
+<p>For example: ?seed=1</p>
