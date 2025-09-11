@@ -150,3 +150,23 @@
         padding-top:20px;
     }
 }
+
+/* ----- IPHONE 12 PRO ----- */
+@media (max-width: 390px) {
+
+    #main-table {
+        max-width: none;
+        padding-left:30px;
+    }
+    #title {
+        max-width: 400px;
+    }
+    #title-1 {
+        font-size: 70pt;
+        padding-left:25px
+    }
+    #title-2 {
+        font-size: 25pt;
+        margin-right: 30px;
+    }
+}
